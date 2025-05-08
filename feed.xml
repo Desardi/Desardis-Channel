@@ -4,9 +4,23 @@
 <channel>
 
 <title> Desardi's Channel </title>
-<link>https://github.com/ajimontalban</link>
+<link>https://github.com/Desardi/Desardis-Channel</link>
+<description>Este canal lo usamos para pasar noticias y así aumentar el conocimiento sobre temas que a mi me parezcan interesantes</description>
+<copyright>By: J. Ignacio M. Sardi</copyright>
 
+<item>
 
+    <title>Artículo 1 - Cursos gratuitos para Sysadmins</title>
+    <link>https://www.nosolohacking.info/gratis/</link>
+    <description>Blog de No Solo Hacking. Tiene distintos cursos para Sysadmin, en este apartado se encuentran los cursos gratuitos
+        que poodemos encontrar tanto en su web como en el canal de youtube de No Solo Hacking. Uno de los videos mas interesantes 
+        puede ser: "Docker, de 0 a pro".
+    </description>
+    <author>Carlos Melantuche</author>
+    <pubDate>2017-06-25</pubDate>
+    <enclosure url="https://www.youtube.com/watch?v=Wgo3Q5sIxi4" type="video" length="1:40:00" />
+
+</item>
 </channel>
 
 </rss>
