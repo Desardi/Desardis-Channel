@@ -22,7 +22,7 @@
 
 </item>
 <item>
-    <title>Artículo 2 - Europe OS</title>
+    <title>Artículo 2 - Propuesta Europe OS</title>
     <link>https://eu-os.eu/</link>
     <description>Página web sobre la utilización de un sistema operativo open source para el sector público europeo.
         La distribucion sería basada en fedora y el entorno KDE Plasma.
@@ -33,7 +33,7 @@
 
 </item>
 <item>
-     <title>Artículo 3 - Concexión contenedores LXC</title>
+     <title>Artículo 3 - Conexión contenedores LXC</title>
     <link>https://diegocarrasco.com/access-multiple-lxc-containers-single-tailscale/</link>
     <description> Como acceder a varios contenedores Linux desde solo una conexión de tailscale
     </description>
