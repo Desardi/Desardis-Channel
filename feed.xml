@@ -39,7 +39,34 @@
 
 </item>
 <item>
-    
+     <title>Artículo 3 - Concexión contenedores LXC</title>
+    <link>https://diegocarrasco.com/access-multiple-lxc-containers-single-tailscale/</link>
+    <description> Como acceder a varios contenedores Linux desde solo una conexión de tailscale
+    </description>
+    <author>Diego Carrasco</author>
+    <pubDate>2024-11-21</pubDate>
+    <link>https://diegocarrasco.com/</link>
+
+</item>
+<item>
+     <title>Artículo 4 - Tecla leader en Vim</title>
+    <link>https://victorhckinthefreeworld.com/2020/03/04/que-es-la-tecla-de-vim-y-como-modificarla-a-nuestro-gusto/</link>
+    <description> La tecla Leader nos ayuda a poder asignar atajos de teclado a nuestro gusto. Con este artículo podemos ver como configurarlo
+    </description>
+    <author>Victorhck</author>
+    <pubDate>2020-03-04</pubDate>
+    <link>https://victorhckinthefreeworld.com/</link>
+
+</item>
+<item>
+     <title>Artículo 5 - Construyamos un shell de Linux</title>
+    <link>https://hackernoon.com/lang/es/permite-construir-un-linux-shell-part-i-bz3n3vg1</link>
+    <description>  Este es un artículo que habla sobre la creación  de una shell de linux desde cero a modo de ejercicio que nos permita 
+        entender mejor como funciona la shell  </description>
+    <author>Muhammed Isam</author>
+    <pubDate>2020-06-08</pubDate>
+    <link>https://hackernoon.com/</link>
+
 </item>
 </channel>
 
